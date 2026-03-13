@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "computedHash": "9745dcb4ef3ffc3c38c00c9649cb4734203a0e93327e0b5b895b4e7a7a20de45"
+    },
     "frontend-design": {
       "source": "anthropics/skills",
       "sourceType": "github",
