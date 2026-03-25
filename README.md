@@ -125,8 +125,6 @@ npm start        # Inicia servidor de produção
 
 ## 📊 Web Vitals — Lighthouse
 
-> **Nota:** Substitua a imagem abaixo pelo print real do Lighthouse após o deploy.
-
 ![Lighthouse Mobile Score](./docs/lighthouse-mobile.png)
 ![Lighthouse Desktop Score](./docs/lighthouse-desktop.png)
 
