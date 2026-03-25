@@ -127,7 +127,8 @@ npm start        # Inicia servidor de produção
 
 > **Nota:** Substitua a imagem abaixo pelo print real do Lighthouse após o deploy.
 
-![Lighthouse Score](./docs/lighthouse.png)
+![Lighthouse Mobile Score](./docs/lighthouse-mobile.png)
+![Lighthouse Desktop Score](./docs/lighthouse-desktop.png)
 
 ### Métricas e seus significados:
 
